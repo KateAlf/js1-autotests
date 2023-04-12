@@ -1,0 +1,19 @@
+{
+  "name": "js1-autotests",
+  "version": "1.0.0",
+  "description": "Обсуждаем автотесты для проекта по JS1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey-Rozhkov/js1-autotests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey-Rozhkov/js1-autotests/issues"
+  },
+  "homepage": "https://github.com/Sergey-Rozhkov/js1-autotests#readme"
+}
