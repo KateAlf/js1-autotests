@@ -4,7 +4,8 @@
   "description": "Обсуждаем автотесты для проекта по JS1",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open",
+    "cypress:open": "cypress open --e2e",
+    "cypress:open:3000": "cypress open --e2e --config baseUrl=http://localhost:3000",
     "cypress:run": "cypress run --spec **/*.feature"
   },
   "repository": {
